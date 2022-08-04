@@ -1,0 +1,25 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#ea7957",
+        "activityBar.activeBorder": "#8ef1a5",
+        "activityBar.background": "#ea7957",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#8ef1a5",
+        "activityBarBadge.foreground": "#15202b",
+        "sash.hoverBorder": "#ea7957",
+        "statusBar.background": "#e4552a",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#ea7957",
+        "statusBarItem.remoteBackground": "#e4552a",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#e4552a",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#e4552a99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#e4552a",
+    "cSpell.words": [
+        "Pokemons"
+    ]
+}
